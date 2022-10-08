@@ -34,7 +34,7 @@ Users should be able to:
 
 ![desktop-desing](./design/desktop-design.jpg)
 
-![mobile-design](./design/mobile-design.jpg)
+![mobile-design](./design/mobile--design.jpg)
 
 ![active-states](./design/active-states.jpg)
 
