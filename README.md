@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://luissequeradev.github.io/validar-formularios-html-css-js
+- Live Site URL: https://luissequeradev.github.io/validate-forms-html-css-js/
 
 ## My process
 
